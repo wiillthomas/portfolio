@@ -1,0 +1,36 @@
+.portfolio-wrapper {
+  margin: 7% 7% 7% 7%;
+}
+.item-wrap {
+  margin-top: 1%;
+  margin-left: 5%;
+  width: 60%;
+}
+
+.portfolio-item {
+  margin-bottom: 5%;
+}
+
+body {
+  font-family: "Space Mono", monospace;
+  background: linear-gradient(100deg, white 60%, #75e78b 60%);
+}
+.contact-information {
+  font-size: 80%;
+}
+.tech-wrapper {
+  margin-top: 1%;
+  margin-left: 5%;
+}
+.link-wrapper {
+  margin-left: 8%;
+  margin-top: 1%;
+}
+.title {
+  font-size: 110%;
+}
+hr {
+  border-color: black;
+  background-color: black;
+  color: black;
+}
