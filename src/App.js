@@ -46,7 +46,7 @@ class Wrapper extends Component {
         description: "an app that shows most popular movies from a given year",
         technology: "react, html, css",
         hyperlink: "https://birthday-movies.herokuapp.com/",
-        github: "https://github.com/wiillthomas/birth-movies"
+        github: "https://github.com/wiillthomas/birthday-movies"
       },
       6: {
         title: "calculator",
@@ -54,7 +54,7 @@ class Wrapper extends Component {
         description: "a simple calculator built in react",
         technology: "react, html, css",
         hyperlink: "https://react-calculator-app-will.herokuapp.com/",
-        github: "https://github.com/wiillthomas/birth-movies"
+        github: "https://github.com/wiillthomas/calculator"
       }
     };
   }
